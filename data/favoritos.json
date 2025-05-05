@@ -1,0 +1,23 @@
+[
+    {
+        "descripcion": "Luffy y los demás consiguen llegar hasta la Torre de la justicia, así que Spandam ordena la masacre del grupo. ¿¡Podrán superar a los miembros del CP9 para rescatar a Robin sana y salva!? ¡¡Comienzan los trepidantes combates de la banda del sombrero de paja contra los superhombres del CP9!! ¡¡Aquí tenéis una historia de piratas que buscan el gran tesoro, el One Piece!!",
+        "calificacion": 10,
+        "titulo": "One Piece no 042",
+        "autores": ["Eiichiro Oda"],
+        "comentario": "gdgdf"
+    },
+    {
+        "descripcion": "El manga de la serie más pirata de la tele Sigue las aventuras de Monkey D. Luffy, un chico muy especial y elástico, que sueña con ser el rey de los piratas y encontrar una gran tesoro: el One Piece. Para ello, se hace a la mar en un bote con el que buscará la tripulación que le pueda ayudar en su misión. Uno de los manga shônen más exitosos de la Historia, junto con Dragon Ball y Naruto. El argumento destaca valores como el espíritu superación, la tolerancia hacia la diferencia y el compañerismo. Creado por el mangaka Eiichiro Oda.",
+        "calificacion": 10,
+        "titulo": "One Piece no 001",
+        "autores": ["Eiichiro Oda"],
+        "comentario": "Hola buenas tardes"
+    },
+    {
+        "descripcion": "PROGRAMACIÓN en JAVA I El entorno de programación \u2013 Sintaxis \u2013 Elementos \u2013 Estructuras de control Java es uno de los lenguajes más robustos y populares en la actualidad, existe hace más de 20 años y ha sabido dar los giros adecuados para mantenerse vigente. Este curso de Programación en Java nos enseña, desde cero, todo lo que necesitamos para aprender a programar y, mediante ejemplos prácticos, actividades y guías paso a paso, nos presenta desde las nociones básicas de la sintaxis y codificación en Java hasta conceptos avanzados como el acceso a bases de datos y la programación para móviles. En este primer volumen de los cuatro que componen el curso, exploramos los conceptos básicos necesarios para enfrentarnos al mundo del desarrollo de aplicaciones, analizamos las características más importantes de Java y preparamos el entorno de desarrollo. También revisamos la sintaxis, elementos y estructuras de control de este lenguaje.",
+        "calificacion": 8,
+        "titulo": "Programacion en JAVA I",
+        "autores": ["Claudio Arroyo Díaz"],
+        "comentario": "Libro muy buenio so"
+    }
+]
