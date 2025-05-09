@@ -19,5 +19,19 @@
         "titulo": "Programacion en JAVA I",
         "autores": ["Claudio Arroyo Díaz"],
         "comentario": "Libro muy buenio so"
+    },
+    {
+        "descripcion": "Sin descripción",
+        "calificacion": 5,
+        "titulo": "Programación en Java",
+        "autores": ["Pedro Manuel Cuenca Jiménez"],
+        "comentario": "Libro muy bonito"
+    },
+    {
+        "descripcion": "Sin descripción",
+        "calificacion": 10,
+        "titulo": "El Lenguaje de programación Java",
+        "autores": ["Ken Arnold"],
+        "comentario": "Me gusto"
     }
 ]

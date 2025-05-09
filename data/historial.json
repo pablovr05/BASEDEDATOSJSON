@@ -1,9 +1,5 @@
 {
     "leyendo": [],
     "leido": [],
-    "por_leer": [{
-        "descripcion": "PROGRAMACIÓN en JAVA I El entorno de programación \u2013 Sintaxis \u2013 Elementos \u2013 Estructuras de control Java es uno de los lenguajes más robustos y populares en la actualidad, existe hace más de 20 años y ha sabido dar los giros adecuados para mantenerse vigente. Este curso de Programación en Java nos enseña, desde cero, todo lo que necesitamos para aprender a programar y, mediante ejemplos prácticos, actividades y guías paso a paso, nos presenta desde las nociones básicas de la sintaxis y codificación en Java hasta conceptos avanzados como el acceso a bases de datos y la programación para móviles. En este primer volumen de los cuatro que componen el curso, exploramos los conceptos básicos necesarios para enfrentarnos al mundo del desarrollo de aplicaciones, analizamos las características más importantes de Java y preparamos el entorno de desarrollo. También revisamos la sintaxis, elementos y estructuras de control de este lenguaje.",
-        "titulo": "Programacion en JAVA I",
-        "autores": ["Claudio Arroyo Díaz"]
-    }]
+    "por_leer": []
 }
